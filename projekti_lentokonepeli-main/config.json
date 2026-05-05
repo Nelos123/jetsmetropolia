@@ -1,0 +1,23 @@
+{
+  "groups": {
+    "#f7fcfd": {
+      "label": "",
+      "paths": [
+        "Spain","Portugal","Malta","Italy","France","Switzerland","Austria","Slovenia",
+        "Croatia","Bosnia_and_Herzegovina","Montenegro","Kosovo","Albania","North_Macedonia",
+        "Greece","Türkiye","Russia","Ukraine","Romania","Moldova","Bulgaria","Serbia",
+        "Hungary","Czechia","Slovakia","Poland","Belarus","Lithuania","Latvia","Estonia",
+        "Finland","Sweden","Norway","Denmark","Germany","Netherlands","Belgium","Luxembourg",
+        "United_Kingdom","Ireland","Iceland"
+      ]
+    }
+  },
+  "hidden": [
+    "Scotland","Wales","England","Northern_Ireland","Saudi_Arabia","Turkmenistan","Uzbekistan",
+    "Algeria","Morocco","Tunisia","Iraq","Jordan","Syria","Cyprus","Israel","Lebanon","Georgia",
+    "San_Marino","Vatican_City","Monaco","Andorra","Iran","Azerbaijan","Kazakhstan",
+    "Liechtenstein","Armenia","Palestinian_Territories"
+  ],
+  "defaultColor": "#000000",
+  "borders": "#000"
+}
